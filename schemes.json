@@ -1,0 +1,107 @@
+[
+  {
+    "name": "BISP Kafaalat",
+    "eligibility": "married women from low-income families with PMT poverty score below threshold, household income roughly PKR 25,000/month or below, not a government employee",
+    "documents": "CNIC, registered phone number, B-Form for children",
+    "process": "get registered via BISP dynamic survey at a Tehsil office or NADRA desk, then receive quarterly stipend (currently around Rs 13,500)",
+    "deadline": "rolling/ongoing registration"
+  },
+  {
+    "name": "Ehsaas Emergency Cash",
+    "eligibility": "families with very low or disrupted income, daily wage earners, verified via NSER survey",
+    "documents": "valid CNIC",
+    "process": "send CNIC number via SMS to 8171 to check eligibility, then collect from a payment site",
+    "deadline": "activated during emergencies and relief periods"
+  },
+  {
+    "name": "PM Youth Business & Agriculture Loan",
+    "eligibility": "Pakistani citizens aged 21-45 (lower minimum for IT/some categories) wanting to start or expand a business or farm",
+    "documents": "CNIC, business plan, educational/technical certificates if any",
+    "process": "apply online via the PMYP portal and partner banks",
+    "deadline": "open application windows"
+  },
+  {
+    "name": "Ehsaas Undergraduate Scholarship (HEC)",
+    "eligibility": "students from low-income families enrolled in partner public universities, need plus merit based",
+    "documents": "CNIC, income certificate, university enrollment proof",
+    "process": "apply through the HEC Ehsaas scholarship portal during the open cycle",
+    "deadline": "annual, usually announced mid-year"
+  },
+  {
+    "name": "Sehat Sahulat Program (Health Card)",
+    "eligibility": "families registered under BISP/Ehsaas or with household income around PKR 25,000/month or below in covered districts",
+    "documents": "valid CNIC",
+    "process": "check eligibility by CNIC on the provincial health portal, collect card, use at empaneled hospitals",
+    "deadline": "ongoing where active"
+  },
+  {
+    "name": "Benazir Taleemi Wazaif",
+    "eligibility": "children (boys and girls) of BISP Kafaalat families who are enrolled in and regularly attending school (primary to higher secondary)",
+    "documents": "child B-Form, mother's CNIC, school enrollment proof",
+    "process": "enroll child in school, ensure attendance, stipend paid quarterly through BISP",
+    "deadline": "rolling, tied to school enrollment"
+  },
+  {
+    "name": "BISP Nashonuma",
+    "eligibility": "pregnant and breastfeeding women and children under 2 in BISP families, to prevent child stunting",
+    "documents": "mother's CNIC, pregnancy/child health record",
+    "process": "register at a BISP Nashonuma facilitation center, receive nutrition support and conditional cash",
+    "deadline": "ongoing"
+  },
+  {
+    "name": "PM Youth Skill Development Program",
+    "eligibility": "youth (roughly 18-35) seeking free technical and vocational training",
+    "documents": "CNIC, educational certificates",
+    "process": "apply online through the PMYP/NAVTTC skills portal and attend a partner institute",
+    "deadline": "open enrollment windows"
+  },
+  {
+    "name": "Kisan Card (Punjab)",
+    "eligibility": "registered farmers in Punjab, typically small landholders",
+    "documents": "CNIC, land ownership/tenancy record",
+    "process": "register on the Kisan Card portal, receive subsidies for fertilizer, seeds and equipment via the card",
+    "deadline": "seasonal registration"
+  },
+  {
+    "name": "Benazir Mazdoor Card / Ehsaas Labour Program",
+    "eligibility": "daily wage earners, contract workers and registered laborers from low-income households",
+    "documents": "CNIC, proof of labor/worker registration if available",
+    "process": "register through the labour program portal or BISP, receive cash assistance and social protection",
+    "deadline": "ongoing registration"
+  },
+  {
+    "name": "CM Punjab Ration / Subsidy Package",
+    "eligibility": "low-income families in Punjab, often BISP-registered, household income around PKR 25,000/month or below",
+    "documents": "CNIC",
+    "process": "check eligibility by CNIC via the relevant 8070/portal, receive subsidized ration or cash during the package period",
+    "deadline": "announced periodically (e.g. Ramzan package)"
+  },
+  {
+    "name": "Ehsaas Interest-Free Loan (Akhuwat)",
+    "eligibility": "poor adults wanting a small business loan, low household income, no formal collateral required",
+    "documents": "CNIC, basic business idea",
+    "process": "apply via the Ehsaas/Akhuwat interest-free loan program in your area",
+    "deadline": "rolling"
+  },
+  {
+    "name": "CM Punjab Free Laptop Scheme",
+    "eligibility": "high-achieving students enrolled in public universities/colleges in Punjab",
+    "documents": "CNIC, university enrollment and merit/result proof",
+    "process": "register on the laptop scheme portal during the open cycle",
+    "deadline": "annual announcement"
+  },
+  {
+    "name": "Naya Pakistan / Government Housing Scheme",
+    "eligibility": "low and middle-income citizens who do not already own a home",
+    "documents": "CNIC, income proof",
+    "process": "apply through the housing scheme portal and partner banks for subsidized installment housing",
+    "deadline": "open application phases"
+  },
+  {
+    "name": "Disability Support (BISP / Ehsaas Special Persons)",
+    "eligibility": "persons with a verified disability from low-income households",
+    "documents": "CNIC, disability certificate from the relevant authority",
+    "process": "register through BISP/provincial social welfare for cash support and assistive services",
+    "deadline": "ongoing"
+  }
+]
