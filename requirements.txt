@@ -1,3 +1,6 @@
 openai
 python-dotenv
 streamlit
+from dotenv import load_dotenv
+requests
+pandas
