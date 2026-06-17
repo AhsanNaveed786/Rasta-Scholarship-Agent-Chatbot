@@ -1,10 +1,9 @@
 import streamlit as st
 import json
 import os
-from dotenv import load_dotenv
 from main import match_schemes, get_latest_info, decide_next_step
-# Load environment variables just in case
-load_dotenv()
+
+api_key = st.secrets["OPENAI_API_KEY"]
 
 def load_schemes():
     schemes_path = os.path.join(os.path.dirname(__file__), 'schemes.json')
